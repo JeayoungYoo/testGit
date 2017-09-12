@@ -30,11 +30,8 @@ public class HomeController {
 		System.out.println("다다");
 		System.out.println("라라");
 		System.out.println("마마");
-<<<<<<< HEAD
 		System.out.println("바바");
-=======
 		System.out.println("사사");
->>>>>>> refs/remotes/origin/branch_lintogi
 		Date date = new Date();
 		DateFormat dateFormat = DateFormat.getDateTimeInstance(DateFormat.LONG, DateFormat.LONG, locale);
 		
