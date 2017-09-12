@@ -29,6 +29,7 @@ public class HomeController {
 		System.out.println("나나");
 		System.out.println("다다");
 		System.out.println("라라");
+		System.out.println("마마");
 		Date date = new Date();
 		DateFormat dateFormat = DateFormat.getDateTimeInstance(DateFormat.LONG, DateFormat.LONG, locale);
 		
